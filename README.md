@@ -3,6 +3,8 @@
 
 Research software engineer and PhD student in the [Computational Systems Biology group](https://csbiology.github.io/) at RPTU Kaiserslautern-Landau. I started out in 2019 writing software for mass spectrometry based proteomics. Since 2021 I also work on FAIR research data management in [DataPLANT](https://www.nfdi4plants.de/), the plant science consortium of Germany's National Research Data Infrastructure (NFDI). My main language is F#. With [Fable](https://github.com/fable-compiler/Fable), most of my libraries compile to .NET, JavaScript and Python from a single code base, so the same code runs in the Electron apps, web tools and Python environments our users work in.
 
+**Expertise:** Software architecture · Application and library development · Data modeling and persistence · Cross-platform development · Data analysis and statistics · Mass spectrometry · Proteomics · Research data management · Workflows
+
 ### Proteomics
 
 I develop [ProteomIQon](https://github.com/CSBiology/ProteomIQon), an end-to-end pipeline for mass spectrometry based proteomics, and [BioFSharp.Mz](https://github.com/BioFSharp/BioFSharp.Mz), its underlying algorithm library. My work ranges from spectrum processing and peptide identification to statistical error control, quantification, alignment and protein inference. [MzIO](https://github.com/CSBiology/MzIO) provides the common data model and I/O layer underneath, while the core pipeline is published as a [CWL workflow on WorkflowHub](https://workflowhub.eu/workflows/2051).
