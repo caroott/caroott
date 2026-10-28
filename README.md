@@ -11,7 +11,7 @@ I develop [ProteomIQon](https://github.com/CSBiology/ProteomIQon), an end-to-end
 
 ### Research data management
 
-In DataPLANT I develop both the software used to work with research data and the models behind it. I am responsible for version control in [Swate](https://github.com/nfdi4plants/Swate), backed by my [VersionControlService](https://github.com/nfdi4plants/VersionControlService) abstraction over Git and lakeFS.
+In DataPLANT I develop both the software used to work with research data and the models behind it. I am responsible for version control in [ARCitISA](https://github.com/nfdi4plants/ARCitISA), backed by my [VersionControlService](https://github.com/nfdi4plants/VersionControlService) abstraction over Git and lakeFS.
 
 I designed Contigo, a provenance editing model that makes large, interconnected experiments manageable through grouped editing and layered interaction without losing individual provenance. I am developing it in [ArcEditor](https://github.com/nfdi4plants/ArcEditor).
 
